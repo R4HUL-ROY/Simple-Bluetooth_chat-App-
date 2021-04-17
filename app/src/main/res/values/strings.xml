@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BTchat</string>
+    <string name="listen">Listen</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="list_devices">List Devices</string>
+    <string name="status">Status</string>
+</resources>
